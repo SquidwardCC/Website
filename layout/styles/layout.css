@@ -273,7 +273,7 @@ td{border-width:0 1px;}
 
 /* Colours
 --------------------------------------------------------------------------------------------------------------- */
-body{color:#FFFFFF; background-color:#026B8A;}
+body{color:#FFFFFF; background-color:#005c84;}
 a{color:#0AC6FC;}
 a:active, a:focus{background:transparent !important;}/* IE10 + 11 Bugfix - prevents grey background */
 hr, .borderedbox{border-color:#D7D7D7;}
@@ -294,15 +294,15 @@ input:focus, textarea:focus, *:required:focus{border-color:#0AC6FC !important;}
 
 /* Rows */
 .row0, .row0 a{color:#FFFFFF; background-color:#0AC6FC;}
-.row1{color:#FFFFFF; background-color:#026B8A;}
+.row1{color:#FFFFFF; background-color:#005c84;}
 .row2{color:#474747; background-color:#F4F4F4;}
 .row3{color:#474747; background-color:#FFFFFF;}
-.row4{color:#FFFFFF; background-color:#01546B;}
-.row5, .row5 a{color:#FFFFFF; background-color:#026B8A;}
+.row4{color:#FFFFFF; background-color:#0084bd;}
+.row5, .row5 a{color:#FFFFFF; background-color:#005c84;}
 
 
 /* Header */
-#header{color:#FFFFFF; background-color:#01546B;}
+#header{color:#FFFFFF; background-color:#0084bd;}
 #header #logo a{color:inherit;}
 
 
@@ -314,14 +314,14 @@ input:focus, textarea:focus, *:required:focus{border-color:#0AC6FC !important;}
 /* Content */
 #services li article{border-color:#0AC6FC;}
 #services li article a{color:inherit;}
-#services li article:hover{color:#FFFFFF; background-color:#026B8A;}
+#services li article:hover{color:#FFFFFF; background-color:#005c84;}
 #services li article:hover a{color:#0AC6FC;}
-#services li article > a > i{color:#FFFFFF; background-color:#01546B; border-color:rgba(0,0,0,.1);}
+#services li article > a > i{color:#FFFFFF; background-color:#0084bd; border-color:rgba(0,0,0,.1);}
 #services li article:hover > a > i{background-color:#0AC6FC;}
 
 #points{color:#474747; background-color:#FFFFFF;}
 #points li span{color:#FFFFFF; background-color:rgba(10,198,252,.7)/* #0AC6FC */;}
-#points li:hover span{background-color:#01546B;}
+#points li:hover span{background-color:#0084bd;}
 
 #latest article figure figcaption .meta li{border-color:rgba(0,0,0,.1);}
 
